@@ -18,7 +18,7 @@ typedef struct Data dataType;
 
 // Connection information...
 char* ssid = "Casa 03";
-char* password = "8532785419";
+char* password = "...";
 char* host = "www.vize.com.br";
 
 // URLs...
