@@ -18,7 +18,7 @@ typedef struct Data dataType;
 
 // Connection information...
 char* ssid = "Casa 03";
-char* password = "...";
+char* password = "8532785419";
 char* host = "www.vize.com.br";
 
 // URLs...
@@ -71,6 +71,7 @@ void initialization()
     }
 
     console.changeFunctionState(fct1);
+    console.sendMain();
 }
 
 bool sendValues()
